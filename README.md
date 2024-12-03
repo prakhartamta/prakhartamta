@@ -13,15 +13,9 @@ Hi there! I'm a **Full Stack Software Engineer** passionate about building scala
 
 ---
 
-## 📈 GitHub Contribution Graph  
+## 📈 GitHub Contributions  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartamta&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⚡ Key GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakhartamta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)  
+<img width="922" alt="Screenshot 2024-12-03 at 2 29 10 PM" src="https://github.com/user-attachments/assets/f80b1b48-893d-4180-9339-6f0632fab022">
 
 ---
 
